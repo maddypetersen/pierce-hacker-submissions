@@ -7,10 +7,12 @@ reviewers:
 - John Doe
 - Jason Loan
 layout: lesson
-Difficulty level: Intermediate
+Difficulty level: Beginner / Intermediate
 ---
 
 ## Lesson Abstract
+
+Students at Pierce College are often asked to complete work on spreadsheets. Microsoft Office is the tool most often recommended by professors; however, Google Sheets as part of the larger G Suite offers services that can be more helpful to students (especially those studying the sciences). This lesson will show you how to use Google Sheets to do some basic analysis and get you started toward learning more if you would like.
 
 ## Lesson Objectives/Outcomes
 
@@ -24,8 +26,8 @@ By the end of this lesson, you will be able to do the following:
 
 ## Materials
 
-Google Sheets and Google Docs are both free to use. A Google account is required to log in - if you have a gmail, log in with that. If not, you can create one for free here: accounts.google.com/signup
-Since Google Sheets and Docs are web based, you do not need to download any programs. Just go to docs.google.com or sheets.google.com. You can access these websites on any browser.
+Google Sheets and Google Docs are both free to use. A Google account is required to log in - if you have a gmail, log in with that. If not, you can create one for free here: [I'm an inline-style link](https://support.google.com/accounts/answer/27441?hl=en)
+Since Google Sheets and Docs are web based, you do not need to download any programs. Just go to [docs.google.com](https://www.google.com/docs/about/) or [sheets.google.com](https://www.google.com/sheets/about/). You can access these websites on any browser.
 
 ## Overview
 
@@ -38,10 +40,10 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 * You can link your data to tables in Google Docs so you can make changes to the Sheet and update the Doc as needed
 * Google Sheets helps you along the way by suggesting equations and showing you how to enter variables
 
-## Lesson Steps/Components [as many as needed]
+## Lesson Steps/Components
 
 
-1. Load [Google Sheets](https://www.google.com ) and click <img src="https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/New_file_logo.png" width="40" height="30">
+1. Load [Google Sheets](https://www.google.com/sheets/about/) and click <img src="https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/New_file_logo.png" width="40" height="30">
 
 2. Type labels in the top row of your table and data below it. Each row below it should be the data from one trial.
 
@@ -76,13 +78,23 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 ## Credits, Further Reading, etc.
 
-* You may find it necessary to reference and cite information from another source.
+[G Suite Learning Center](https://support.google.com/a/users/answer/9310369)
 
-* Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDkwOTc2NSwtMTYxODQwOTgwNywtMT
-QzMTk3MjU3NiwtODk3ODA2NzI2LC0xMzk5MjY0MTg3LDE0ODY2
-MjMxNjAsMTY3Mzg2NjI1NiwxMDQzMjAyNjEyLC0xMTI0Mzg2NT
-U0LC0xOTM4MDA5Njk0LDExMzY4MDk3NzcsLTE0ODcxNjI2NDcs
-LTE3MjkwODIxNzhdfQ==
--->
+[Link_to_Video_Resource](https://youtu.be/zs3ku4uVoho)
+Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
+
+License: CC-BY
+
+ Pages 10
+Find a Page…
+Home
+Compatibility
+Development Notes
+Markdown Cheatsheet
+Markdown Here Cheatsheet
+Other Markdown Tools
+Press, Posts, Reviews, Etc.
+Reviews
+Tips and Tricks
+Troubleshooting
+Clone this wiki locally
