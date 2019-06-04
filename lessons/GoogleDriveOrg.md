@@ -117,8 +117,28 @@ Google Drive is an online cloud storage where users can save files and documents
 
 - You'll get a pop-up window title My Drive.
 - Select the “New Folder” button located in the bottom right
-- Name the folder and click the check mark button.
-- Then you will click "Move Here".
+
+<p align="center">
+  <img src="images/GDriveS3M3-2.jpg" >
+</p>
+
+- Name the folder and click the check mark button to create the folder.
+
+<p align="center">
+  <img src="images/GDriveS3M3-3.jpg" >
+</p>
+
+- Click "Move Here" to move the file to the newly created folder.
+
+<p align="center">
+  <img src="images/GDriveS3M3-4.jpg" >
+</p>
+
+- A notification confirming the move will appear in the bottom-left corner of the browser window.
+
+<p align="center">
+  <img src="images/GDriveS3M3-5.jpg" >
+</p>
 
 ## Credits, Further Reading, etc.
 
