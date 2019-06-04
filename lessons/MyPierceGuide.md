@@ -16,7 +16,7 @@ Students need
 
 ###### On the left side-bar click on the *Advising arrow*, then click on *"Educational Planner"*
 
-![SideBar] (/Users/luke-mac/Desktop/Side_bar_pic.png) 
+![SideBar] (images/Side_bar_pic.png) 
 
 > The Educational Planner is a planning tool that allows students and advisors to communicate in forming a academic path.
 
@@ -39,14 +39,14 @@ At the bottom students can also leave comments below "User Comment:" to communic
 * **Class Availability**
 > The class Availability page allows students to check on specific classes to see if they are open or closed.
 
-![ClassAvailability] (/Users/luke-mac/Desktop/Class-availability_pic.png)
+![ClassAvailability] (images/Class-availability_pic.png)
 
 Students enter the class number, select the quarter/year, and can then check the availability by clicking on the check availability button.  
 
 ###### On the left side-bar under Scheduling click on *"eSchedule"*, you will then be directed to a new tab for the Class Schedule page.
 * **eSchedule**
 
-![eSchedule] (/Users/luke-mac/Desktop/eSchedule_pic.png)
+![eSchedule] (images/eSchedule_pic.png)
 
 > On the eSchedule page students can specify what kind of classes they are looking for. By choosing what subject, days of the week, starting time, and disciplines, students can quickly browse the options they have. 
 
@@ -61,7 +61,7 @@ Students enter the class number, select the quarter/year, and can then check the
 ###### On the left side-bar click on *Registration & Records*, then click on Your *"Registration Time"*. You will then be directed to the When to Register / Get Your Advisor's Name page. 
 * **Your Registration Time**
 
-![your_registration] (/Users/luke-mac/Desktop/Your_registration_time_pic.png)
+![your_registration] (images/Your_registration_time_pic.png)
 
 > At the top of the page to the right of "Quarter:" there is a tab for specifying which quarter and year the student needs to get there registration time for. 
 
@@ -70,7 +70,7 @@ Students enter the class number, select the quarter/year, and can then check the
 
 ###### On the left side-bar under *Registration & Records*, click on *"Register for, Add, or Drop Classes"*. 
 * **Register for / add / drop** 
-![registerpic] (/Users/luke-mac/Desktop/Register_for_pic.png)
+![registerpic] (images/Register_for_pic.png)
 
 > Students need: Pierce College Student ID, Registration Access Code, and to specify which quarter they are registering for.  
 
