@@ -8,10 +8,10 @@ c. Numbers vs. Algebraic Expressions
 d. Trig Functions of Degree>1  
 e. Inverse Trig Functions  
 ### Section 2: Class Specific Issues
-a. MATH&141  
-b. MATH&142  
-c. MATH&146  
-d. MATH&152
+a. MATH&141: Graphing  
+b. MATH&142: Order of Terms in an Answer  
+c. MATH&146: Why does WAMAP Care About a One Ten-Thousandth of a Percent Error?  
+d. MATH&152: +C
 ### Section 3: Faulty Questions
 
 ## Introduction
