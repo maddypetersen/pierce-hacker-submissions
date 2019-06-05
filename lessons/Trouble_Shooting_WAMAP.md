@@ -19,6 +19,13 @@ This Tutorial is designed as a guide to help students troubleshoot commonly enou
 
 ## Section 1: Some Common Issues encountered in a Variety of Classes
 ### a. Parentheses: When, Where, and How Many?
+Parentheses are a big deal in WAMAP, and in mathematics in general. There are a lot of situations in which parenthese can make or break your answer. Sometimes when we write down an answer on paper, it may make sense to skip the seemingly repetative parentheses, but when it comes to electronic answer submission, they are vital. As a general rule of thumb, more parentheses is typically a good idea, but there are a lot of exceptions to this. Let's take a look at an answer that might make sense to us without parantheses, but that WAMAP sees as something completely different.  
+
+[pic]  
+
+In this example, not icluding parentheses in the numerator results in WAMAP completely misinterpretting the answer. Now let's check out that same problem, this time with all of the necessary parentheses.  
+
+[pic]  
 
 ### b. Fractions vs. Decimals
 
