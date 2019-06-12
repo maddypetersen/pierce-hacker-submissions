@@ -1,7 +1,7 @@
 # Introduction: Creating a twitter bot using Google sheet
 
 ---
-## PLEASE READ THIS BEFORE PROCEEDING. [Twitter Bot Etiquette](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/)
+## PLEASE READ [Twitter Bot Etiquette](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/) BEFORE PROCEEDING. 
 ---
 
 ## **What is a Twitter Bot?** 
