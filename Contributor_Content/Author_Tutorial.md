@@ -39,7 +39,6 @@ Before you begin your lesson, make sure you have a clear idea of what it will be
 
 ### 2. Understand and consider your audience
 Your lesson may be for someone who has never used a certain program before or it may be for more advanced users. Make sure you have your audience clearly in mind when writing steps and make sure you keep a consistent voice. Over/under explaining some steps may be confusing for your readers. If you do want to include a note for advanced users, make it clear who that note is for. Recap:
-
 * **Decide if your tutorial is for a novice, intermediate, or advanced user**
 * **Keep this experience level in mind with each step - don't over/under explain**
 
@@ -50,17 +49,19 @@ Remember that not everyone has a computer, or a specific operating system, etc. 
 * **Provide links to required/recommended software or website access**
 
 ### 4. Start drafting
-Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md). By now, you should have enough information to fill out everything up to the Lesson Steps/Components portion.
-
+Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md). By now, you should have enough information to fill out everything up to the Lesson Steps/Components portion. This is a great time to research other online lessons (or tutorials) to get an idea of how to make yours effective. Try not to hold yourself to a certain number of steps. Instead, write out as many steps as you think you need. You can always combine them later if appropriate. If you feel like you have done this and your lesson is too long, it may be a good idea to break it up into 2 or more lessons. Recap:
+* **Start filling out the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md)**
+* ****
 ### 5. Review your work and make edits
 
 
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4MjUxMzgzLDIwODY2NTgxNTgsMTQyMD
-M2NzE0MCwtMzY4MTY3MjUxLC0yMDMyMTA2MzU5LC00NTg3MjA3
-MzMsMjU4MzE4MjYsMTEwNTYxNjg3MywtMTQ0NjQ4NTkzLC05Mj
-k4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMwMDM5MSwtNTQ3NDg2
-OTk3LDE5MzAxMjE3NjRdfQ==
+eyJoaXN0b3J5IjpbODI5MzExNTI4LDE5MjIyNDgxNzQsLTQxND
+gxNTA3Myw3MzgyNTEzODMsMjA4NjY1ODE1OCwxNDIwMzY3MTQw
+LC0zNjgxNjcyNTEsLTIwMzIxMDYzNTksLTQ1ODcyMDczMywyNT
+gzMTgyNiwxMTA1NjE2ODczLC0xNDQ2NDg1OTMsLTkyOTg4Njkx
+MywxODY3NzU5MTcxLC0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMT
+kzMDEyMTc2NF19
 -->
