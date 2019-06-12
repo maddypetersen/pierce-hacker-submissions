@@ -1,14 +1,14 @@
 # Introduction: Creating a twitter bot using Google sheet
 
 ---
-## PLEASE READ [Twitter Bot Etiquette](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/) BEFORE PROCEEDING. 
+### PLEASE READ [Twitter Bot Etiquette](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/) BEFORE PROCEEDING. 
 ---
 
-## **What is a Twitter Bot?** 
+### **What is a Twitter Bot?** 
 A Twitter bot is a type of bot software that controls a Twitter account via the Twitter API. The bot software may autonomously perform actions such as tweeting, re-tweeting, liking, following, unfollowing, or direct messaging other accounts. Wikipedia Bots date back to the 1980s, when programmers using a service called Internet Relay Chat began making user profiles to serve narrowly defined, pre-programmed functions. The human user could ask the bot for date and time, for example, and the bot could provide. Soon, they were serving essential internet functions, like providing backup to Wikipedia’s human editors (bots can flag possible copyright violations, or add links to stories) and trawling sites to for Google and its search engine.
 
 As the bot’s domain has expanded, so have the tool for its creation. Many bots are still built with basic programming languages, like this DIY bot made with NodeJS that will respond to text messages. But the most sophisticated bots are actually artificial intelligence, cannibalizing existing information, running it through a neural network, and spitting out novel ideas or images based on what it’s learned. A recent example includes this bot that turns words into strange, grainy, and theoretically related images.
-## **Five things to know about twitter about bots.** 
+### **Five things to know about twitter about bots.** 
 It’s no secret that there are bots on Twitter. But how do bot accounts — which automatically create tweets without direct human oversight — actually affect the mix of content on Twitter?
 
 A new Pew Research Center study, conducted over a six-week period in the summer of 2017, examined 1.2 million tweets with URL links to determine what share of links were posted by bots on Twitter. The study identified bots using Botometer, which learns patterns from hand-classified account data produced by trained experts.
@@ -16,18 +16,18 @@ A new Pew Research Center study, conducted over a six-week period in the summer 
 To count how many times human and bot accounts shared links to particular websites, we wrote a computer program to follow each shared link to its destination. Then we isolated the 2,315 most commonly shared sites with meaningful content and classified the kinds of content that appear on those sites.
 
 Here is a link to five key takeaways from [Pew Research](https://www.pewresearch.org/fact-tank/2018/04/09/5-things-to-know-about-bots-on-twitter/).
-## References 
+### References 
 [Zach Whalen spreadsheet](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/)
 
 [Pew Research](https://www.pewresearch.org/fact-tank/2018/04/09/5-things-to-know-about-bots-on-twitter/).
 
-## General Setup Instructions
+### General Setup Instructions
 
 **I recommend that you create a separate [Gmail](Gmail.com) account for your bot so you can have everything apart from your personal account.**
 
 The following steps are general for any type of bot you want to create. To get started, make a copy of [Zach's spreadsheet](https://docs.google.com/spreadsheets/d/1Cbg_6pYN04XtDHpDLtxAP3ExQEBL8PYBXBQ1E5_Sq30/copy) and save it in Google drive. It **CAN NOT** be saved on your desk top because it will not work, then proceed through the steps below.
  
-## Tutorial
+### Tutorial
  
 
 **1. Create a Twitter account for your Bot**
@@ -40,7 +40,7 @@ After you click on the "Sign up" tab it will ask you add a phone number, you can
 
 **2. Open your Google Sheet**
 
-Enter your account name in your Google sheet under Step 1. Google sheets will automatically save so you don't have to do anything else.
+Enter your account name in your Google sheet under Step 1. Google sheets will automatically save so you don't have to worry about lossing any information.
 
 ![Google Sheet](https://raw.githubusercontent.com/ymonteagudo9896/twitter-bot-tutorial-for-Pierce-Hacker/master/images/Adding%20twitter%20name.jpg)
 
@@ -52,11 +52,13 @@ Go to [Twitter Apps](https://twitter.com/login?redirect_after_login=https%3A%2F%
 
 ![Developer](https://raw.githubusercontent.com/ymonteagudo9896/twitter-bot-tutorial-for-Pierce-Hacker/master/images/developer%20popup.jpg)
 
-The next page you'll be asked to select a primary use for your Twitter API, you can only select one. I would just select "Student" then click next. On this step is when you'll need to add a cell phone number, after verifying your number type in the code that was texted to you. You will be asked **"What country do you live in?"** and **"What would you like us to call you?"** you can select whatever you like.
+The next page you'll be asked to select a primary use for your Twitter API, you can only select one. I would just select "Student" then click next. On this step is when you'll need to add a cell phone number, after verifying your number type in the code that was texted to you. You will be asked **"What country do you live in?"** and **"What would you like us to call you?"** you can put in whatever you like.
 
-Next, you'll be asked **"How will you use the Twitter API or Twitter data?"**. You will have to type in a minimum of 200 characters in this box. For **"The specifics"** part select NO for "Are you planning to analyze Twitter data?", Yes for **"Will your app use Tweet, Retweet, like, follow, or Direct Message functionality?**" and just copy and paste the same thing you wrote in the first block, and select no for the last two question and click next.
+Next, you'll be asked **"How will you use the Twitter API or Twitter data?"**. You will have to type in a minimum of 200 characters in this box. 
 
 ![How will you use](https://raw.githubusercontent.com/ymonteagudo9896/twitter-bot-tutorial-for-Pierce-Hacker/master/images/How%20will%20use.jpg)
+
+For **"The specifics"** part select NO for "Are you planning to analyze Twitter data?", Yes for **"Will your app use Tweet, Retweet, like, follow, or Direct Message functionality?**" and just copy and paste the same thing you wrote in the first block, and select no for the last two question and click next.
 
 ![Specifics](https://raw.githubusercontent.com/ymonteagudo9896/twitter-bot-tutorial-for-Pierce-Hacker/master/images/Specifics.jpg)
 
@@ -70,9 +72,11 @@ The last step will be is to verify that everything you just did looks correct cl
 
 This application (“app”) is the method that your spreadsheet will use to talk to Twitter. It’s possible to use Apps for multiple bots or accounts — in fact, this is how they’re designed — but I like to make one for each bot account so that if one gets suspended the others aren’t necessarily in jeopardy at the same time.
 
-Go to [Twitter Apps](https://developer.twitter.com/en/apps) and hit the “Create New App” button. Fill out the form to give your app a name, description, and website. These can be quite simple and can always be changed later. The **App’s name** needs to be unique, so you can name it the same it based on your bot's name, but if you get an error saying that name has been taken just change it. In the **App description** just type a short explanation of your bot. For the **Website URL** you can use your bots name and just add a ".com" at the end. Leave the **Enable sign in** the box unchecked for now and leave the **“Callback”** field blank for now.
+Go to [Twitter Apps](https://developer.twitter.com/en/apps) and hit the “Create New App” button. Fill out the form to give your app a name, description, and website. These can be quite simple and can always be changed later. The **App’s name** needs to be unique, so you can name it the same it based on your bot's name, but if you get an error saying that name has been taken just change it. 
 
 ![Create twitter app](https://raw.githubusercontent.com/ymonteagudo9896/twitter-bot-tutorial-for-Pierce-Hacker/master/images/create%20twitter%20app.jpg)
+
+In the **App description** just type a short explanation of your bot. For the **Website URL** you can use your bots name and just add a ".com" at the end. Leave the **Enable sign in** the box unchecked for now and leave the **“Callback”** field blank for now.
 
 ![App details](https://raw.githubusercontent.com/ymonteagudo9896/twitter-bot-tutorial-for-Pierce-Hacker/master/images/App%20details.png)
 
