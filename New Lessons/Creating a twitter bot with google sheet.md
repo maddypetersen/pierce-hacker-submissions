@@ -1,14 +1,14 @@
 # Introduction: Creating a twitter bot using Google sheet
 
 ---
-## PLEASE READ THIS BEFORE PROCEDING. [Twitter Bot Etiquette](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/)
+## PLEASE READ THIS BEFORE PROCEEDING. [Twitter Bot Etiquette](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/)
 ---
 
-## **What is a Twitter Bot?:** 
+## **What is a Twitter Bot?** 
 A Twitter bot is a type of bot software that controls a Twitter account via the Twitter API. The bot software may autonomously perform actions such as tweeting, re-tweeting, liking, following, unfollowing, or direct messaging other accounts. Wikipedia Bots date back to the 1980s, when programmers using a service called Internet Relay Chat began making user profiles to serve narrowly defined, pre-programmed functions. The human user could ask the bot for date and time, for example, and the bot could provide. Soon, they were serving essential internet functions, like providing backup to Wikipedia’s human editors (bots can flag possible copyright violations, or add links to stories) and trawling sites to for Google and its search engine.
 
 As the bot’s domain has expanded, so have the tool for its creation. Many bots are still built with basic programming languages, like this DIY bot made with NodeJS that will respond to text messages. But the most sophisticated bots are actually artificial intelligence, cannibalizing existing information, running it through a neural network, and spitting out novel ideas or images based on what it’s learned. A recent example includes this bot that turns words into strange, grainy, and theoretically related images.
-## **Five things to know about twitter bots:** 
+## **Five things to know about twitter about bots.** 
 It’s no secret that there are bots on Twitter. But how do bot accounts — which automatically create tweets without direct human oversight — actually affect the mix of content on Twitter?
 
 A new Pew Research Center study, conducted over a six-week period in the summer of 2017, examined 1.2 million tweets with URL links to determine what share of links were posted by bots on Twitter. The study identified bots using Botometer, which learns patterns from hand-classified account data produced by trained experts.
@@ -16,12 +16,13 @@ A new Pew Research Center study, conducted over a six-week period in the summer 
 To count how many times human and bot accounts shared links to particular websites, we wrote a computer program to follow each shared link to its destination. Then we isolated the 2,315 most commonly shared sites with meaningful content and classified the kinds of content that appear on those sites.
 
 Here is a link to five key takeaways from [Pew Research](https://www.pewresearch.org/fact-tank/2018/04/09/5-things-to-know-about-bots-on-twitter/).
-## References
+## References 
 [Zach Whalen spreadsheet](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/)
 
 [Pew Research](https://www.pewresearch.org/fact-tank/2018/04/09/5-things-to-know-about-bots-on-twitter/).
 
 ## General Setup Instructions
+
 **I recommend that you create a separate [Gmail](Gmail.com) account for your bot so you can have everything apart from your personal account.**
 
 The following steps are general for any type of bot you want to create. To get started, make a copy of [Zach's spreadsheet](https://docs.google.com/spreadsheets/d/1Cbg_6pYN04XtDHpDLtxAP3ExQEBL8PYBXBQ1E5_Sq30/copy) and save it in Google drive. It **CAN NOT** be saved on your desk top because it will not work, then proceed through the steps below.
@@ -89,7 +90,7 @@ You App has four tabs: **APP Details, Keys and Access Tokens, and Permissions**.
 
 ![App Permissions](https://raw.githubusercontent.com/ymonteagudo9896/twitter-bot-tutorial-for-Pierce-Hacker/master/images/App%20permissions.png)
 
-Under the Keys and Access Tokens tab, use the button to “**Generate”** This will authorize your app to interface with your account. (I know, it seems redundant.)
+Under the Keys and Access Tokens tab, use the button to “**Generate”** . This will authorize your app to interface with your account. (I know, it seems redundant.)
 
 ![Key and token](https://raw.githubusercontent.com/ymonteagudo9896/twitter-bot-tutorial-for-Pierce-Hacker/master/images/keys%20and%20token.png)
 
@@ -101,7 +102,7 @@ Then, copy and paste the Consumer Key (API Key) and Consumer Secret (API Secret)
 
 **6. Locate your Google Spreadsheet’s “Project Key”**
 
-This is your spreadsheet’s unique ID within Google. To find yours, first open “Tools-> Script Editor…” to bring up the Script Editor. 
+This is your spreadsheet’s unique ID within Google. To find yours, first open “Tools-> Script Editor…” to bring up the Script Editor.
 
 ![Script editor](https://raw.githubusercontent.com/ymonteagudo9896/twitter-bot-tutorial-for-Pierce-Hacker/master/images/Scrip%20editor.png)
 
@@ -181,4 +182,3 @@ You can change the data sheet selection and edit the data sheet contents without
 ![Columns](https://raw.githubusercontent.com/ymonteagudo9896/twitter-bot-tutorial-for-Pierce-Hacker/master/images/columns.png)
 
 It will simply use the updated setting whenever it next attempts to send a tweet. You will, however, have to stop and restart the posting if you want to change the timing.
-
