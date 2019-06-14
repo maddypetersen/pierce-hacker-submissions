@@ -22,5 +22,5 @@ This method will get the fastest response.  This method allows all of the Pierce
 #### 3.	Making a detail suggestion.
 This method/option will allow you to leave detail comments to specific lines within the tutorial/lesson in our directory.  The PierceHacker team will then read and take your suggestions into consideration.
 #### 4.	Pull Request for access to the file.
-If you feel that you're experience and very familiar with GitHub and markdown files, you can make a pull request and edit/fix the tutorial/lesson yourself.  You'll make changes to the current version and submit them.  Our PierceHacker team will then review the changes and decide if they should replace the current tutorial or lesson.
+If you feel that you're experience and familiar with GitHub and markdown files, you can make a pull request and edit/fix the tutorial/lesson yourself.  You'll make changes to the current version and submit them.  Our PierceHacker team will then review the changes and decide if they should replace the current tutorial or lesson.
 
