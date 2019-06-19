@@ -81,20 +81,5 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 [G Suite Learning Center](https://support.google.com/a/users/answer/9310369)
 
 [Link_to_Video_Resource](https://youtu.be/zs3ku4uVoho)
-Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
 
 License: CC-BY
-
- Pages 10
-Find a Page…
-Home
-Compatibility
-Development Notes
-Markdown Cheatsheet
-Markdown Here Cheatsheet
-Other Markdown Tools
-Press, Posts, Reviews, Etc.
-Reviews
-Tips and Tricks
-Troubleshooting
-Clone this wiki locally
