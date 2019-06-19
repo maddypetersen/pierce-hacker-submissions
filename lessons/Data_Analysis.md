@@ -26,7 +26,7 @@ By the end of this lesson, you will be able to do the following:
 
 ## Materials
 
-Google Sheets and Google Docs are both free to use. A Google account is required to log in - if you have a gmail, log in with that. If not, you can create one for free here: [I'm an inline-style link](https://support.google.com/accounts/answer/27441?hl=en)
+Google Sheets and Google Docs are both free to use. A Google account is required to log in - if you have a gmail, log in with that. If not, you can create one for free [here](https://support.google.com/accounts/answer/27441?hl=en).
 Since Google Sheets and Docs are web based, you do not need to download any programs. Just go to [docs.google.com](https://www.google.com/docs/about/) or [sheets.google.com](https://www.google.com/sheets/about/). You can access these websites on any browser.
 
 ## Overview
