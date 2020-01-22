@@ -95,7 +95,7 @@ Now you can paste the link wherever you want.
 
 The recipient of the document is limited to whichever level of access was given from the sender. For example, a recipient with "editing" access will be able to make changes directly to the document. A recipient who only has commenting access will only be able to make suggestions and comments to a document. If a recipient only has viewing access, then no additions/changes can be made.
 
-1. Change your current level of access with the drop down at the top right of the screen. You are limited to the highest level you were originally granted.
+**1. Change your current level of access with the drop down at the top right of the screen. You are limited to the highest level you were originally granted.**
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GDocCollab/i.png" >
