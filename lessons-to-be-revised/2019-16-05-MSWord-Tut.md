@@ -13,8 +13,8 @@ author: "Samuel Detweiler"
 
 Lesson Objectives/Outcomes: 
 
-1. Student will be able to Insert page numbers.
-2. Student will be able to Place page numbers on the top or bottom of page
+1. Student will be able to insert page numbers.
+2. Student will be able to place page numbers on the top or bottom of page
 3. Student will be able to place the numbers on the left or right side of page 
 ## Materials:
 To complete this this tutorial a student must have Microsoft Word.
@@ -33,7 +33,7 @@ Then click on the “Header and Footer” tab located at the top left of the pag
 
 3. Click on “Page Numbers” once more and  a window will open and allow you to Choose where exactly the page numbers will go in your document. 
 
-4. Then select the desired location of your page numbers and click ”OK”. If you
+4. Then select the desired location of your page numbers and click ”OK”. If you are satisfied with the look of your page numbers you are done!
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/assets/images/MSWord-Tut-Pic1.png" >
