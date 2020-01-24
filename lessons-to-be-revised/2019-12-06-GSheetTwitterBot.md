@@ -54,9 +54,8 @@ Go to [Twitter](https://twitter.com/) and sign up for a new account. You can use
 
 After you click on the "Sign up" tab it will ask you add a phone number, you can skip this part for now but you will need to do it later on in the steps. You can also click where it says "use email instead" and use the Gmail you created for your bot.
 
-<p align="center">
-  <img src="{{ site.baseurl }}/images/GSheetTwitterBot/Creat twitter.jpg" >
-</p>
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/Creat twitter.jpg)
+
 
 **2. Open your Google Sheet**
 
@@ -66,6 +65,8 @@ Enter your account name in your Google sheet under Step 1. Google sheets will au
   <img src="{{ site.baseurl }}/images/GSheetTwitterBot/Adding twitter name.jpg" >
 </p>
 
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
+
 **3. Apply for a Twitter developer account**
 
 Go to [Twitter Apps](https://twitter.com/login?redirect_after_login=https%3A%2F%2Fdeveloper.twitter.com%2Fapps) click on the "Create App". You will have a pop-up asking you to apply for a developer account, go ahead and apply.
@@ -74,9 +75,13 @@ Go to [Twitter Apps](https://twitter.com/login?redirect_after_login=https%3A%2F%
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/create twitter app.jpg" >
 </p>
 
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
+
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/developer popup.jpg" >
 </p>
+
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
 
 The next page you'll be asked to select a primary use for your Twitter API, you can only select one. I would just select "Student" then click next. On this step is when you'll need to add a cell phone number, after verifying your number type in the code that was texted to you. You will be asked **"What country do you live in?"** and **"What would you like us to call you?"** you can put in whatever you like.
 
@@ -86,17 +91,23 @@ Next, you'll be asked **"How will you use the Twitter API or Twitter data?"**. Y
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/How will use.jpg" >
 </p>
 
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
+
 For **"The specifics"** part select NO for "Are you planning to analyze Twitter data?", Yes for **"Will your app use Tweet, Retweet, like, follow, or Direct Message functionality?**" and just copy and paste the same thing you wrote in the first block, and select no for the last two question and click next.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/Specifics.jpg" >
 </p>
 
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
+
 The last step will be is to verify that everything you just did looks correct click **Next**, if not just click on the back tab at the bottom and make the needed corrections. If everything is good click on **"Looks Good"** and accept the **"Terms"** and **"Submit"** the application.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/Conferm account.jpg" >
 </p>
+
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
 
 >You will get an email requesting you to confirm you email address. After confirming it might take some time until you're able to create an app. So just keep checking the Bots email account.
 
@@ -110,11 +121,15 @@ Go to [Twitter Apps](https://developer.twitter.com/en/apps) and hit the “Creat
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/create twitter app.jpg" >
 </p>
 
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
+
 In the **App description** just type a short explanation of your bot. For the **Website URL** you can use your bots name and just add a ".com" at the end. Leave the **Enable sign in** the box unchecked for now and leave the **“Callback”** field blank for now.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/App details.png" >
 </p>
+
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
 
 You can leave all the other **URLs** blank because it’s not required. For the **Tell us how this app will be used** you can use the same description that you used before. After that click **Create**.
 
@@ -122,11 +137,15 @@ You can leave all the other **URLs** blank because it’s not required. For the 
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/tell us how.png" >
 </p>
 
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
+
 You will get a **Developer Terms** read the information and click **Create**
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/Developer terms.png" >
 </p>
+
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
 
 **5. Complete App Setup and Enter Keys into the Spreadsheet**
 
@@ -136,11 +155,15 @@ You App has four tabs: **APP Details, Keys and Access Tokens, and Permissions**.
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/App permissions.png" >
 </p>
 
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
+
 Under the Keys and Access Tokens tab, use the button to “**Generate”** . This will authorize your app to interface with your account. (I know, it seems redundant.)
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/keys and token.png" >
 </p>
+
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
 
 Then, copy and paste the Consumer Key (API Key) and Consumer Secret (API Secret) from that tab into the green cells under Step 3 in your spreadsheet.
 
@@ -150,6 +173,8 @@ Then, copy and paste the Consumer Key (API Key) and Consumer Secret (API Secret)
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/step 3.png" >
 </p>
 
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
+
 **6. Locate your Google Spreadsheet’s “Project Key”**
 
 This is your spreadsheet’s unique ID within Google. To find yours, first open “Tools-> Script Editor…” to bring up the Script Editor.
@@ -158,21 +183,29 @@ This is your spreadsheet’s unique ID within Google. To find yours, first open 
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/Scrip editor.png" >
 </p>
 
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
+
 In the Script Editor, open “File-> Project Properties," and locate your “Project key” in the table that you’ll see there.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/Project properties.png" >
 </p>
 
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
+
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/Project key.png" >
 </p>
+
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
 
 Copy and paste that Project key into the green cell under Step 4.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/step 4.png" >
 </p>
+
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
 
 **7. Add “Callback” Value to Twitter App**
 
@@ -182,11 +215,15 @@ After completing Step 4, the red cell under Step 5 should automatically change t
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/step 5.png" >
 </p>
 
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
+
 Go back to your Twitter **App's Detail** tab click edit and paste that URL into “Callback URL” field. Also check the **Enable Sign in with Twitter** box.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/CAll back url.png" >
 </p>
+
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/
 
 **8. Select a Data Sheet and Generate a Preview of its Output**
 
