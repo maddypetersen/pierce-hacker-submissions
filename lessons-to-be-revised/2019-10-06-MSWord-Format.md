@@ -35,7 +35,7 @@ In this tutorial a student will learn how to properly set up their Papers to pre
 2. Click on the "Layout" tab...click on "Margins"...click on "Normal"...the margins will then be set to 1″ top, 1″ bottom,
     1″ left, 1″ right.
 
-![MS Word](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59212784-254a5980-8b68-11e9-9dc1-7d131020be85.png"
+![MS Word](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59212784-254a5980-8b68-11e9-9dc1-7d131020be85.png)
 
 
 ### How to Center a Title in Word
@@ -43,6 +43,6 @@ In this tutorial a student will learn how to properly set up their Papers to pre
 1. Click the "home" tab and then click the button shown in the screenshot.
     This will allow you to center your text.
 
-![MS Word](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59214136-4f514b00-8b6b-11e9-86ce-aafac447654f.png
+![MS Word](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59214136-4f514b00-8b6b-11e9-86ce-aafac447654f.png)
  
 
