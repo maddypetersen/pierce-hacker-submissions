@@ -64,7 +64,7 @@ Students enter the class number, select the quarter/year, and can then check the
   <img src="{{ site.baseurl }}/assets/images/MyPierceGuide/eSchedule_pic.png" >
 </p>
 
-> On the eSchedule page students can specify what kind of classes they are looking for. By choosing what subject, days of the week, starting time, and disciplines, students can quickly browse the options they have. 
+> On the eSchedule page students can specify what kind of classes they are looking for. By choosing what subject, days of the week, starting time, and disciplines, students can quickly browse the options they have. .
 
 
 > At the top of the page there is also "Enrollment Information" with tabs that might help if any enrollment questions arise. 
