@@ -54,7 +54,7 @@ Go to [Twitter](https://twitter.com/) and sign up for a new account. You can use
 
 After you click on the "Sign up" tab it will ask you add a phone number, you can skip this part for now but you will need to do it later on in the steps. You can also click where it says "use email instead" and use the Gmail you created for your bot.
 
-![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/Creat twitter.jpg)
+![Bot Image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GSheetTwitterBot/Creat%20twitter.jpg) 
 
 
 **2. Open your Google Sheet**
