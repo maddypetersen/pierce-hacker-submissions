@@ -31,20 +31,18 @@ In this tutorial a student will learn how to properly set up their Papers to pre
 
 ![Ms Word](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59212784-254a5980-8b68-11e9-9dc1-7d131020be85.png)
 
-<p align="center">
-  <img src="{{ site.baseurl }}/images/MSWord-Formatting/59213260-4f504b80-8b69-11e9-954e-57fa6a88c354.png" >
-</p>
 
 2. Click on the "Layout" tab...click on "Margins"...click on "Normal"...the margins will then be set to 1″ top, 1″ bottom,
     1″ left, 1″ right.
-<p align="center">
-  <img src="{{ site.baseurl }}/images/MSWord-Formatting/59212784-254a5980-8b68-11e9-9dc1-7d131020be85.png" >
-</p>
+
+![MS Word](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59212784-254a5980-8b68-11e9-9dc1-7d131020be85.png"
+
 
 ### How to Center a Title in Word
 
 1. Click the "home" tab and then click the button shown in the screenshot.
     This will allow you to center your text.
-<p align="center">
-  <img src="{{ site.baseurl }}/images/MSWord-Formatting/59214136-4f514b00-8b6b-11e9-86ce-aafac447654f.png" >
-</p>
+
+![MS Word](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59214136-4f514b00-8b6b-11e9-86ce-aafac447654f.png
+ 
+
