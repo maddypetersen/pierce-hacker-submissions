@@ -1,25 +1,25 @@
 ---
 layout: post
-title: "Creating a twitter bot using Google sheet" 
+title: "Creating a twitter bot using Google sheet"
 date:   2019-06-12 10:00:00
 category: tutorials
-author: "Yamill Monteagudo" 
+author: "Yamill Monteagudo"
 ---
 
 # Introduction: Creating a twitter bot using Google sheet
 
 ---
-### PLEASE READ [Twitter Bot Etiquette](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/) BEFORE PROCEEDING. 
+### PLEASE READ [Twitter Bot Etiquette](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/) BEFORE PROCEEDING.
 ---
 
-### **What is a Twitter Bot?** 
+### **What is a Twitter Bot?**
 A Twitter bot is a type of bot software that controls a Twitter account via the Twitter API. The bot software may autonomously perform actions such as tweeting, re-tweeting, liking, following, unfollowing, or direct messaging other accounts. Wikipedia Bots date back to the 1980s, when programmers using a service called Internet Relay Chat began making user profiles to serve narrowly defined, pre-programmed functions. The human user could ask the bot for date and time, for example, and the bot could provide. Soon, they were serving essential internet functions, like providing backup to Wikipedia’s human editors (bots can flag possible copyright violations, or add links to stories) and trawling sites to for Google and its search engine.
 
 As the bot’s domain has expanded, so have the tool for its creation. Many bots are still built with basic programming languages, like this DIY bot made with NodeJS that will respond to text messages. But the most sophisticated bots are actually artificial intelligence, cannibalizing existing information, running it through a neural network, and spitting out novel ideas or images based on what it’s learned. A recent example includes this bot that turns words into strange, grainy, and theoretically related images.
 
 ---
 
-### **Five things to know about twitter about bots.** 
+### **Five things to know about twitter about bots.**
 It’s no secret that there are bots on Twitter. But how do bot accounts — which automatically create tweets without direct human oversight — actually affect the mix of content on Twitter?
 
 A new Pew Research Center study, conducted over a six-week period in the summer of 2017, examined 1.2 million tweets with URL links to determine what share of links were posted by bots on Twitter. The study identified bots using Botometer, which learns patterns from hand-classified account data produced by trained experts.
@@ -30,7 +30,7 @@ Here is a link to five key takeaways from [Pew Research](https://www.pewresearch
 
 ---
 
-### References 
+### References
 [Zach Whalen spreadsheet](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/)
 
 [Pew Research](https://www.pewresearch.org/fact-tank/2018/04/09/5-things-to-know-about-bots-on-twitter/).
@@ -46,7 +46,7 @@ The following steps are general for any type of bot you want to create. To get s
 ---
 
 ### Tutorial
- 
+
 
 **1. Create a Twitter account for your Bot**
 
@@ -55,7 +55,7 @@ Go to [Twitter](https://twitter.com/) and sign up for a new account. You can use
 After you click on the "Sign up" tab it will ask you add a phone number, you can skip this part for now but you will need to do it later on in the steps. You can also click where it says "use email instead" and use the Gmail you created for your bot.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/Creat twitter.jpg" >
+  <img src="{{ site.baseurl }}/images/GSheetTwitterBot/Creat twitter.jpg" >
 </p>
 
 **2. Open your Google Sheet**
@@ -63,12 +63,12 @@ After you click on the "Sign up" tab it will ask you add a phone number, you can
 Enter your account name in your Google sheet under Step 1. Google sheets will automatically save so you don't have to worry about losing any information.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/Adding twitter name.jpg" >
+  <img src="{{ site.baseurl }}/images/GSheetTwitterBot/Adding twitter name.jpg" >
 </p>
 
 **3. Apply for a Twitter developer account**
 
-Go to [Twitter Apps](https://twitter.com/login?redirect_after_login=https%3A%2F%2Fdeveloper.twitter.com%2Fapps) click on the "Create App". You will have a pop-up asking you to apply for a developer account, go ahead and apply. 
+Go to [Twitter Apps](https://twitter.com/login?redirect_after_login=https%3A%2F%2Fdeveloper.twitter.com%2Fapps) click on the "Create App". You will have a pop-up asking you to apply for a developer account, go ahead and apply.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/create twitter app.jpg" >
@@ -80,7 +80,7 @@ Go to [Twitter Apps](https://twitter.com/login?redirect_after_login=https%3A%2F%
 
 The next page you'll be asked to select a primary use for your Twitter API, you can only select one. I would just select "Student" then click next. On this step is when you'll need to add a cell phone number, after verifying your number type in the code that was texted to you. You will be asked **"What country do you live in?"** and **"What would you like us to call you?"** you can put in whatever you like.
 
-Next, you'll be asked **"How will you use the Twitter API or Twitter data?"**. You will have to type in a minimum of 200 characters in this box. 
+Next, you'll be asked **"How will you use the Twitter API or Twitter data?"**. You will have to type in a minimum of 200 characters in this box.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/How will use.jpg" >
@@ -98,13 +98,13 @@ The last step will be is to verify that everything you just did looks correct cl
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/Conferm account.jpg" >
 </p>
 
->You will get an email requesting you to confirm you email address. After confirming it might take some time until you're able to create an app. So just keep checking the Bots email account. 
+>You will get an email requesting you to confirm you email address. After confirming it might take some time until you're able to create an app. So just keep checking the Bots email account.
 
 **4. Create a Twitter App for your Bot**
 
 This application (“app”) is the method that your spreadsheet will use to talk to Twitter. It’s possible to use Apps for multiple bots or accounts — in fact, this is how they’re designed — but I like to make one for each bot account so that if one gets suspended the others aren’t necessarily in jeopardy at the same time.
 
-Go to [Twitter Apps](https://developer.twitter.com/en/apps) and hit the “Create New App” button. Fill out the form to give your app a name, description, and website. These can be quite simple and can always be changed later. The **App’s name** needs to be unique, so you can name it the same it based on your bot's name, but if you get an error saying that name has been taken just change it. 
+Go to [Twitter Apps](https://developer.twitter.com/en/apps) and hit the “Create New App” button. Fill out the form to give your app a name, description, and website. These can be quite simple and can always be changed later. The **App’s name** needs to be unique, so you can name it the same it based on your bot's name, but if you get an error saying that name has been taken just change it.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/create twitter app.jpg" >
@@ -142,8 +142,8 @@ Under the Keys and Access Tokens tab, use the button to “**Generate”** . Thi
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/keys and token.png" >
 </p>
 
-Then, copy and paste the Consumer Key (API Key) and Consumer Secret (API Secret) from that tab into the green cells under Step 3 in your spreadsheet. 
- 
+Then, copy and paste the Consumer Key (API Key) and Consumer Secret (API Secret) from that tab into the green cells under Step 3 in your spreadsheet.
+
 >Note: The **Consumer API Key** and **Consumer Secret** are not the same thing as the **Access Token** and **Access token Secret**.
 
 <p align="center">
@@ -158,7 +158,7 @@ This is your spreadsheet’s unique ID within Google. To find yours, first open 
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/Scrip editor.png" >
 </p>
 
-In the Script Editor, open “File-> Project Properties," and locate your “Project key” in the table that you’ll see there. 
+In the Script Editor, open “File-> Project Properties," and locate your “Project key” in the table that you’ll see there.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/Project properties.png" >
@@ -202,7 +202,7 @@ From the **“Bot”** menu in your Spreadsheet, select **“Generate Preview”
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/generate preview output.png" >
 </p>
 
-At the bottom of the spreadsheet switch to the **“Preview Output”** sheet to see 15 sample tweets generated from the selected data sheet. You can edit these data sheets to your own content now, or you can wait until the rest of the setup is complete. 
+At the bottom of the spreadsheet switch to the **“Preview Output”** sheet to see 15 sample tweets generated from the selected data sheet. You can edit these data sheets to your own content now, or you can wait until the rest of the setup is complete.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/preview output.png" >
@@ -259,7 +259,7 @@ If everything has gone well so far and your data sheet is populated with your co
 </p>
 
 
-You can change the data sheet selection and edit the data sheet contents without stopping the tweeting. 
+You can change the data sheet selection and edit the data sheet contents without stopping the tweeting.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GSheetTwitterBot/editing colums.png" >
@@ -275,4 +275,3 @@ It will simply use the updated setting whenever it next attempts to send a tweet
 ### Example
 
 I have a bot called [RobobotPR20](https://twitter.com/robobotpr20) running that's tweeting random "Roses are red" poems
-
