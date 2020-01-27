@@ -14,35 +14,37 @@ author: "Luke"
 ###### Logging In
 Students need:
 
-* Student Identification
+* Student Identification Number
 * Date of Birth for PIN -  mm/dd/yy 
 
 
 
-## Advising
+## Advising 
+### Great place to start
 
 
-###### On the left side-bar click on the *Advising arrow*, then click on *"Educational Planner"*
+#### Create a road map with the educational planner
+#####On the left side-bar click on the *Advising arrow*, then click on *"Educational Planner"*
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/MyPierceGuide/Side_bar_pic.png" >
 </p>
 
-> The Educational Planner is a planning tool that allows students and advisors to communicate in forming a academic path.
+> The Educational Planner is a planning tool that allows students and advisors to communicate in forming an academic path.
 
-In the education planner the student can specify what degree they are working towards, specify what year it is for the plan, copy data to a new plan, and send the plan to your advisor. 
+The classes in your plan are easily rearranged (if a class fills up and you’re unable to take it that quarter you can move on to plan B and move the full class over). You also have the option to copy the plan if you want to look try out different options. Additionally, you can share your plan with your advisor for quality checking. 
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/MyPierceGuide/EdPlan_pic.png" >
 </p>
 
-Your plan is sectioned over four years with summer, fall, winter, and spring quarters. 
+To create your plan first determine the academic quarter you plan to start.
 
-When clicking on the plus symbol icon to the right of the quarter, a new small box will appear, allowing the student to add a class by typing the first few letters of the course title as seen in the eSchedule.
+To add a class click the “+” button associated with the quarter you plan to begin. A pop up window will appear— to add a class, begin typing the course title as seen in the eSchedule. A drop down with options will appear and you can select the appropriate class.
 
 Students can also delete academic year sections.
 
-At the bottom students can also leave comments below "User Comment:" to communicate with their advisor.  
+If you have any questions or comments about the plan you created you have the option to leave a comment below under "User Comment:" 
 
 
 
@@ -60,11 +62,9 @@ Students enter the class number, select the quarter/year, and can then check the
 ###### On the left side-bar under Scheduling click on *"eSchedule"*, you will then be directed to a new tab for the Class Schedule page.
 * **eSchedule**
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/MyPierceGuide/eSchedule_pic.png" >
-</p>
+![Alt Text](https://j.gifs.com/nxX16P.gif)
 
-> On the eSchedule page students can specify what kind of classes they are looking for. By choosing what subject, days of the week, starting time, and disciplines, students can quickly browse the options they have. .
+> On the eSchedule page students can specify what kind of classes they are looking for. By choosing what subject, days of the week, starting time, and disciplines, students can quickly browse the options they have. 
 
 
 > At the top of the page there is also "Enrollment Information" with tabs that might help if any enrollment questions arise. 
