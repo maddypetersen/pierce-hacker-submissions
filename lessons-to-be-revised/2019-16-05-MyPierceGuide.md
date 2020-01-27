@@ -12,7 +12,7 @@ author: "Luke"
 > MyPierce is a portal for Students at Pierce College that allows them to keep track of their status at Pierce. Where a student can go to for advising, scheduling, and registration needs. 
 
 ###### Logging In
-Students need:
+For this Tutorial, you will need:
 
 * Student Identification Number
 * Date of Birth for PIN -  mm/dd/yy 
@@ -42,7 +42,7 @@ To create your plan first determine the academic quarter you plan to start.
 
 To add a class click the “+” button associated with the quarter you plan to begin. A pop up window will appear— to add a class, begin typing the course title as seen in the eSchedule. A drop down with options will appear and you can select the appropriate class.
 
-Students can also delete academic year sections.
+Students can also delete academic year sections. As in if they do not prefer to take summer classes, they can remove them and push them ontoa different quarter.
 
 If you have any questions or comments about the plan you created you have the option to leave a comment below under "User Comment:" 
 
@@ -95,3 +95,6 @@ Students enter the class number, select the quarter/year, and can then check the
 > Students need: Pierce College Student ID, Registration Access Code, and to specify which quarter they are registering for.  
 
 > This page allows students to take care of all their registration needs online. This includes registering, adding, and dropping classes. 
+
+> A registration code will come from your advisor when you meet with him or her to talk about the upcoming classes. (Note: Running Start students will need to meet with their current highschool advisor before being able to talk to their Pierce College advisor.)
+
