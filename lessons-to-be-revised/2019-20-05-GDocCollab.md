@@ -105,6 +105,4 @@ If you have given someone the editing access you will then see them live on the 
   <img src="{{ site.baseurl }}/assets/images/GDocCollab/i.png" >
 </p>
 
-## Credits, Further Reading, etc.
-
-N/A
+All done! Now you have made a shared Google doc.
