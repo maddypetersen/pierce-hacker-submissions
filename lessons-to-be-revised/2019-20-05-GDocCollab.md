@@ -33,7 +33,7 @@ This lesson responds to the many people at Pierce who don't use cloud storage so
 
 ### How to get Google Docs open
 
-1. Log into [Google Acount](https://accounts.google.com).
+1. Log into [Google Account](https://accounts.google.com).
 
 2. Open the apps menu at the top right and scroll down.
 
