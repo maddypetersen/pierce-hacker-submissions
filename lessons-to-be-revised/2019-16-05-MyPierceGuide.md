@@ -26,6 +26,7 @@ For this Tutorial, you will need:
 #### Create a road map with the educational planner
 #####On the left side-bar click on the *Advising arrow*, then click on *"Educational Planner"*
 
+![]side bar](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MyPierceGuide/Side_bar_pic.png)
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/MyPierceGuide/Side_bar_pic.png" >
 </p>
