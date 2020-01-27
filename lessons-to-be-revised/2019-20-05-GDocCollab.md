@@ -47,7 +47,7 @@ This lesson responds to the many people at Pierce who don't use cloud storage so
   <img src="{{ site.baseurl }}/assets/images/GDocCollab/b1.png" >
 </p>
 
-4. Start a new document (or open an existing one).
+4. Start a new document or open an existing one.
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/GDocCollab/c1.png" >
@@ -93,7 +93,11 @@ Now you can paste the link wherever you want.
 
 ### How to work with a shared document as the recipient
 
-The recipient of the document is limited to whichever level of access was given from the sender. For example, a recipient with "editing" access will be able to make changes directly to the document. A recipient who only has commenting access will only be able to make suggestions and comments to a document. If a recipient only has viewing access, then no additions/changes can be made.
+The recipient of the document is limited to whichever level of access was given from the sender. 
+
+For example, a recipient with "editing" access will be able to make changes directly to the document. A recipient who only has commenting access will only be able to make suggestions and comments to a document. If a recipient only has viewing access, then no additions/changes can be made.
+
+If you have given someone the editing access you will then see them live on the doc with a colored cursor with their name. That means at the same time you can edit the document together.
 
 **1. Change your current level of access with the drop down at the top right of the screen. You are limited to the highest level you were originally granted.**
 
