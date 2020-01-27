@@ -75,10 +75,8 @@ Students enter the class number, select the quarter/year, and can then check the
 * **Your Registration Time**
 
 
+![your registartion time](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MyPierceGuide/Your_registration_time_pic.png)
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/MyPierceGuide/Your_registration_time_pic.png" >
-</p>
 
 > At the top of the page to the right of "Quarter:" there is a tab for specifying which quarter and year the student needs to get there registration time for. 
 
@@ -87,9 +85,9 @@ Students enter the class number, select the quarter/year, and can then check the
 
 ###### On the left side-bar under *Registration & Records*, click on *"Register for, Add, or Drop Classes"*. 
 * **Register for / add / drop** 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/MyPierceGuide/Register_for_pic.png" >
-</p>
+
+![register for](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MyPierceGuide/Register_for_pic.png)
+
 
 > Students need: Pierce College Student ID, Registration Access Code, and to specify which quarter they are registering for.  
 
