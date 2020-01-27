@@ -26,18 +26,16 @@ For this Tutorial, you will need:
 #### Create a road map with the educational planner
 #####On the left side-bar click on the *Advising arrow*, then click on *"Educational Planner"*
 
-![]side bar](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MyPierceGuide/Side_bar_pic.png)
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/MyPierceGuide/Side_bar_pic.png" >
-</p>
+![side bar](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MyPierceGuide/Side_bar_pic.png)
+
 
 > The Educational Planner is a planning tool that allows students and advisors to communicate in forming an academic path.
 
 The classes in your plan are easily rearranged (if a class fills up and you’re unable to take it that quarter you can move on to plan B and move the full class over). You also have the option to copy the plan if you want to look try out different options. Additionally, you can share your plan with your advisor for quality checking. 
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/MyPierceGuide/EdPlan_pic.png" >
-</p>
+![ed plan](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MyPierceGuide/EdPlan_pic.png)
+
+
 
 To create your plan first determine the academic quarter you plan to start.
 
@@ -48,15 +46,13 @@ Students can also delete academic year sections. As in if they do not prefer to 
 If you have any questions or comments about the plan you created you have the option to leave a comment below under "User Comment:" 
 
 
-
 ## Scheduling
 ###### On the left side-bar click on *Scheduling arrow*, then click on *"Class Availability by Item Number"*.
 * **Class Availability**
 > The class Availability page allows students to check on specific classes to see if they are open or closed.
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/MyPierceGuide/Class-availability_pic.png" >
-</p>
+![ed plan](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MyPierceGuide/Class-availability_pic.png)
+
 
 Students enter the class number, select the quarter/year, and can then check the availability by clicking on the check availability button.  
 
@@ -77,6 +73,8 @@ Students enter the class number, select the quarter/year, and can then check the
 ## Registration & Records
 ###### On the left side-bar click on *Registration & Records*, then click on Your *"Registration Time"*. You will then be directed to the When to Register / Get Your Advisor's Name page. 
 * **Your Registration Time**
+
+
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/MyPierceGuide/Your_registration_time_pic.png" >
