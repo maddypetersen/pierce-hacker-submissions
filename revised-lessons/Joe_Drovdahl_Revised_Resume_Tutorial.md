@@ -3,7 +3,7 @@ layout: post
 title: "Resumes Templates For Tranferring Students" 
 date:   2019-06-14 10:00:00
 category: tutorials
-author: "Joe Drovdahl" 
+author: "Uyen Do and Joe Drovdahl" 
 ---
 
 ## Lesson Abstact
